@@ -1,0 +1,9 @@
+The rainblow has the following colors.
+
+Red
+Green
+Purple
+White
+Blue
+
+End of the file.
