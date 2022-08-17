@@ -6,5 +6,6 @@ Purple
 Yellow
 White
 Blue
+Indigo.
 
 End of the file.
