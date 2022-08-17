@@ -3,6 +3,7 @@ The rainblow has the following colors.
 Red
 Green
 Purple
+Yellow
 White
 Blue
 
